@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "fname": "Eslam",
+        "lname": "Amaar",
+        "age": 32,
+        "city": "Balat"
+    },
+    {
+        "id": 2,
+        "fname": "Ahmed",
+        "lname": "Abo Saif",
+        "age": 33,
+        "city": "Balat"
+    },
+    {
+        "id": 3,
+        "fname": "Ahmed",
+        "lname": "Adam",
+        "age": 34,
+        "city": "Balat"
+    },
+    {
+        "id": 4,
+        "fname": "Ramadan",
+        "lname": "Antaar",
+        "age": 34,
+        "city": "Balat"
+    },
+    {
+        "id": 5,
+        "fname": "Ibrahem",
+        "lname": "Mahmoud",
+        "age": 32,
+        "city": "Dakla"
+    },
+    {
+        "id": 6,
+        "fname": "Yaser",
+        "lname": "Awad",
+        "age": 33,
+        "city": "Maasara"
+    },
+    {
+        "id": 7,
+        "fname": "Fatma",
+        "lname": "Abd-elhakem",
+        "age": 30,
+        "city": "Balat"
+    },
+    {
+        "id": 8,
+        "fname": "Mai",
+        "lname": "Mohamed",
+        "age": 32,
+        "city": "Balat"
+    },
+    {
+        "id": 9,
+        "fname": "Walid",
+        "lname": "Saaed",
+        "age": 29,
+        "city": "Marzok"
+    },
+    {
+        "id": 10,
+        "fname": "Ahmed",
+        "lname": "Ibrahem",
+        "age": 40,
+        "city": "Giza"
+    },
+    {
+        "id": 11,
+        "fname": "Hamada",
+        "lname": "Mostafa",
+        "age": 32,
+        "city": "Balat"
+    }
+]
